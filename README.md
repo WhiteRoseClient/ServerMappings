@@ -30,9 +30,7 @@
     "name": "ServerName",
   {
 [
-```json
-
-Die Datei `servers.json` enthält alle unterstützten Server im folgenden Format:
+```
 
 ## Struktur
 
