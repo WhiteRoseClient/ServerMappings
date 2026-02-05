@@ -1,0 +1,59 @@
+[
+  {
+    "name": "NuviraMC",
+    "addresses": ["nuviramc.de", "nuviramc", "blocktopiamc.de", "blocktopiamc", "*.nuviramc.de"],
+    "discord_large_image": "nuviramc",
+    "discord_small_image": "large",
+    "discord_details": "NuviraMC",
+    "discord_state_format": "{players}/{max} Spieler"
+  },
+  {
+    "name": "Hypixel",
+    "addresses": ["hypixel.net", "mc.hypixel.net", "*.hypixel.net"],
+    "discord_large_image": "hypixel",
+    "discord_small_image": "large",
+    "discord_details": "Hypixel",
+    "discord_state_format": "{players}/{max}"
+  },
+  {
+    "name": "GommeHD.net",
+    "addresses": ["gommehd.net", "gomme.net", "*.gommehd.net"],
+    "discord_large_image": "gommehd",
+    "discord_small_image": "large",
+    "discord_details": "GommeHD.net",
+    "discord_state_format": "{players}/{max}"
+  },
+  {
+    "name": "Cytooxien",
+    "addresses": ["cytooxien.de", "cytooxien", "*.cytooxien.de"],
+    "discord_large_image": "cytooxien",
+    "discord_small_image": "large",
+    "discord_details": "Cytooxien",
+    "discord_state_format": "{players}/{max}"
+  },
+  {
+    "name": "GrieferGames",
+    "addresses": ["griefergames.net", "griefergames.de", "*.griefergames.net"],
+    "discord_large_image": "griefergames",
+    "discord_small_image": "large",
+    "discord_details": "GrieferGames",
+    "discord_state_format": "{players}/{max}"
+  },
+  {
+    "name": "Timolia",
+    "addresses": ["timolia.de", "*.timolia.de"],
+    "discord_large_image": "timolia",
+    "discord_small_image": "large",
+    "discord_details": "Timolia",
+    "discord_state_format": "{players}/{max}"
+  },
+  {
+    "name": "Rewi Server",
+    "addresses": ["rewinside.tv", "*.rewinside.tv"],
+    "discord_large_image": "rewinside",
+    "discord_small_image": "large",
+    "discord_details": "Rewi Server",
+    "discord_state_format": "{players}/{max}"
+  }
+]
+
