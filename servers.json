@@ -12,7 +12,7 @@
     "addresses": ["*.knusperbambus.de"],
     "discord_large_image": "knusperbambus",
     "discord_small_image": "large",
-    "discord_details": "mc.Knusperbambus.de",
+    "discord_details": "Knusperbambus.de",
     "discord_state_format": "{players}/{max} Spieler"
   },
   {
